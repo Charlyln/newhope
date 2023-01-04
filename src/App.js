@@ -25,7 +25,7 @@ function App() {
               height: '100%',
             }}
           ></iframe>
-        <p>0.0.1</p>
+        <p>0.0.2</p>
         </FullScreen>
       </header>
     </div>
