@@ -18,14 +18,14 @@ function App() {
           <iframe
             id='iframe'
             title='newhope'
-            src='https://play.gx.games/game-wrapper/ef073b8d-785c-44f1-b886-406c7fff96f1/index.html?game=d9710581-ad8d-4298-8e29-0b0166ccad20&track=d181ad25-4334-4e4b-bbc2-87418110461e&release=f282ff7e-5086-4561-a7fa-fbff91267e5f&userId=9547171b-f050-4756-a417-777c8f86642d&username=charlypse&avatarUrl&gamePlayId=bb9d33ad-cc54-4e02-a704-1453ead5d326&coverImage=https://play.gxc.gg/game/d9710581-ad8d-4298-8e29-0b0166ccad20/cover/2a136eee-34f3-4f93-8046-2b4309ea1465?79a981994dcf746d26837c99f677026c'
-            style={{
+            src='https://play.gx.games/game-wrapper/ef073b8d-785c-44f1-b886-406c7fff96f1/index.html?game=d9710581-ad8d-4298-8e29-0b0166ccad20&track=d181ad25-4334-4e4b-bbc2-87418110461e&release=c52ff59d-e70c-44c1-8279-a86b40d324aa&userId=9547171b-f050-4756-a417-777c8f86642d&username=charlypse&avatarUrl&gamePlayId=8422f169-99c0-4917-94c2-1bedd2999f0a&coverImage=https://play.gxc.gg/game/d9710581-ad8d-4298-8e29-0b0166ccad20/cover/2a136eee-34f3-4f93-8046-2b4309ea1465?79a981994dcf746d26837c99f677026c'
+           style={{
             border: 'none',
             width: '100%',
             height: '100%',
             }}
           ></iframe>
-        <p>0.1.1</p>
+        <p>0.1.2</p>
         </FullScreen>
       </header>
     </div>
